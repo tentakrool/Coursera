@@ -1,0 +1,43 @@
+
+		.box
+		{
+			width:98%;
+			height:auto;
+			padding:1% auto;
+			margin:1%;
+			background-color:#0099ff;
+			color:black;
+		}
+		h1
+		{
+			text-align:center;
+			color:black;
+		}
+		h2
+		{
+			text-align:center;
+		}
+		.navbar
+		{
+			border-radius:0;
+			border:0;
+			background-color:#C2CDD1;
+		}
+		#nav-list 
+		{
+			margin-top: 10px;
+			vertical-align:middle;
+		}
+		#nav-list a 
+		{
+			text-align: center;
+			color:black;
+		}
+		#nav-list a:hover 
+		{
+			background: #E7E7E7;
+		}
+		#nav-list a span 
+		{
+			font-size: 1.8em;
+		} 
